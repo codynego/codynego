@@ -15,7 +15,7 @@ I'm a passionate software developer with expertise in Python and Django. I love 
 
 - Programming Languages: Python, JavaScript
 
-- Frameworks: Django, Django REST Framework, React
+- Frameworks: Django, Django REST Framework
 
 - Databases: Redis, MySQL, MongoDB
 
