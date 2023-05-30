@@ -29,7 +29,7 @@ I'm always eager to collaborate on exciting projects and contribute to the open-
 
 📧 Email: emonenaabednego@gmail.com
 
-💼 LinkedIn: [Your LinkedIn Profile]
+💼 LinkedIn: https://www.linkedin.com/in/abednego-emonena-b160ab1aa
 
 Looking forward to exploring the world of code and making a positive impact through my contributions. Happy coding! 😊
 
